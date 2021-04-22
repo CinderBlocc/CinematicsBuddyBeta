@@ -1,0 +1,24 @@
+Cinematics Buddy BETA
+9|NOTE: You might end up with multiple CinematicsBuddy UI files after this update.
+9|Please delete all the other .set files except for this one to avoid confusion.
+9|------------------- EXPORTING -------------------
+
+12|File directory|cb_file_path
+12|File name|cb_file_name
+12|Camera name|cb_camera_name
+8|
+0|Start recording|cbStartRecord
+7
+0|Stop recording|cbStopRecord
+7
+0|Reset UI|cbClearUI
+8|
+9|------------------- IMPORTING -------------------
+
+12|Import File Name|cb_import_file_name
+0|Import Animation|cbImportAnimation
+7
+0|Clear Animation|cbClearAnimation
+8|
+9|Version: 0.9.4d
+9|$cb_message_box$
